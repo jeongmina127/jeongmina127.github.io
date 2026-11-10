@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Computer Vision | Deep Learning | 3D Poi
 
 profile:
   align: right
-  image: 조정민 증명사진.jpg
+  image: jeongmincho.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
